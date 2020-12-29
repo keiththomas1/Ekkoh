@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GesturesAR.unity
+    path: Assets/Scenes/MainEkkoh.unity
     guid: fd4c296f5121a48fa86abc210ff7d6c8
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 17c9c32458b1f42319c8fbfa9e6aaf87,

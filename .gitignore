@@ -11,6 +11,9 @@ Ekkoh/[Ll]ogs/
 Ekkoh/[Mm]emoryCaptures/
 Ekkoh/[Bb]uilds/
 Ekkoh/Assets/SWS
+Ekkoh/user.keystore
+Ekkoh/Assets/LunarConsole/
+Ekkoh/Plugins/VoxelBusters/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
